@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #fffeed;
+  background-color: #faeacd;
 }
 
 .popup {
@@ -75,11 +75,11 @@ body {
 }
 
 #login-btn {
-  border-radius: 10px 0px 10px 0px;
+  border-radius: 10px 0px 0px 0px;
 }
 
 #signup-btn {
-  border-radius: 0px 10px 0px 10px;
+  border-radius: 0px 10px 0px 0px;
 }
 
 .button-container button:last-child {
